@@ -1,0 +1,15 @@
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Test\obj\Debug\CoreApp.Test.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Test\bin\Debug\CoreApp.Test.dll
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Test\bin\Debug\CoreApp.Test.pdb
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Test\obj\Debug\CoreApp.Test.dll
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Test\obj\Debug\CoreApp.Test.pdb
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Test\bin\Debug\CoreApp.TorreDeHanoi.dll
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Test\bin\Debug\CoreApp.TorreDeHanoi.pdb
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.Test.dll
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.Test.pdb
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.TorreDeHanoi.dll
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.TorreDeHanoi.pdb
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\obj\Debug\CoreApp.Test.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\obj\Debug\CoreApp.Test.dll
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\obj\Debug\CoreApp.Test.pdb
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.Test.dll.config
