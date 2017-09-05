@@ -1,8 +1,5 @@
-﻿using CoreApp.TorreDeHanoi;
+﻿using CoreApp.Domain.TorreDeHanoi;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Collections.Generic;
-using System;
-using System.Web.Hosting;
 
 namespace CoreApp.Test
 {
@@ -12,7 +9,11 @@ namespace CoreApp.Test
         [TestMethod]
         public void ExecutandoAEngineDeHanoi()
         {
+            HanoiResolver _engine = new HanoiResolver(3);
 
+            _engine.Resolve();
+
+            Assert.AreEqual(7, _engine.Movimentos.Count);
         }
     }
 }

@@ -1,0 +1,14 @@
+2017-09-03 23:11:36,534 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: 2b852f34-66af-4df5-8899-6865b90cdc09O Disco 0 foi movido da torre Torre A para Torre C
+2017-09-03 23:11:41,282 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: 2b852f34-66af-4df5-8899-6865b90cdc09O Disco 1 foi movido da torre Torre A para Torre C
+2017-09-03 23:11:45,296 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: 2b852f34-66af-4df5-8899-6865b90cdc09O Disco 0 foi movido da torre Torre C para Torre C
+2017-09-03 23:11:47,305 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: 2b852f34-66af-4df5-8899-6865b90cdc09O Disco 2 foi movido da torre Torre A para Torre C
+2017-09-03 23:11:53,316 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: 2b852f34-66af-4df5-8899-6865b90cdc09O Disco 0 foi movido da torre Torre C para Torre A
+2017-09-03 23:11:55,332 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: 2b852f34-66af-4df5-8899-6865b90cdc09O Disco 1 foi movido da torre Torre C para Torre C
+2017-09-03 23:11:59,339 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: 2b852f34-66af-4df5-8899-6865b90cdc09O Disco 0 foi movido da torre Torre A para Torre C
+2017-09-03 23:17:58,409 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: c15f5d0e-619b-41a2-821a-6faf325c606fO Disco 0 foi movido da torre Torre A para Torre C
+2017-09-03 23:18:03,197 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: c15f5d0e-619b-41a2-821a-6faf325c606fO Disco 1 foi movido da torre Torre A para Torre C
+2017-09-03 23:18:07,211 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: c15f5d0e-619b-41a2-821a-6faf325c606fO Disco 0 foi movido da torre Torre C para Torre C
+2017-09-03 23:18:09,218 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: c15f5d0e-619b-41a2-821a-6faf325c606fO Disco 2 foi movido da torre Torre A para Torre C
+2017-09-03 23:18:15,224 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: c15f5d0e-619b-41a2-821a-6faf325c606fO Disco 0 foi movido da torre Torre C para Torre A
+2017-09-03 23:18:17,237 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: c15f5d0e-619b-41a2-821a-6faf325c606fO Disco 1 foi movido da torre Torre C para Torre C
+2017-09-03 23:18:21,247 INFO CoreApp.Domain.TorreDeHanoi.HanoiResolver - ID: c15f5d0e-619b-41a2-821a-6faf325c606fO Disco 0 foi movido da torre Torre A para Torre C

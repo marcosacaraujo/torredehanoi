@@ -1,6 +1,4 @@
-﻿using CoreApp.TorreDeHanoi;
-using System.Web.Hosting;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 
 namespace CoreApp.API.Controllers
 {

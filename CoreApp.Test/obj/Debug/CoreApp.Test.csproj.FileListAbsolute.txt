@@ -5,6 +5,7 @@ C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Test\obj\Debug\CoreAp
 C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Test\obj\Debug\CoreApp.Test.pdb
 C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Test\bin\Debug\CoreApp.TorreDeHanoi.dll
 C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Test\bin\Debug\CoreApp.TorreDeHanoi.pdb
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.Test.dll.config
 C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.Test.dll
 C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.Test.pdb
 C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.TorreDeHanoi.dll
@@ -12,4 +13,15 @@ C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.TorreDeHa
 C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\obj\Debug\CoreApp.Test.csprojResolveAssemblyReference.cache
 C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\obj\Debug\CoreApp.Test.dll
 C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\obj\Debug\CoreApp.Test.pdb
-C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.Test.dll.config
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.Domain.dll
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\log4net.dll
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.Infra.Data.dll
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\EntityFramework.dll
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.Domain.pdb
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\log4net.xml
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\CoreApp.Infra.Data.pdb
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\MySql.Data.dll
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\EntityFramework.xml
+C:\Users\Marcos Araújo\Desktop\Monkeys\CoreApp.Test\bin\Debug\EntityFramework.SqlServer.xml

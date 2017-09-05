@@ -1,0 +1,13 @@
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Domain\bin\Debug\CoreApp.Domain.dll
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Domain\bin\Debug\CoreApp.Domain.pdb
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Domain\obj\Debug\CoreApp.Domain.dll
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Domain\obj\Debug\CoreApp.Domain.pdb
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Domain\obj\Debug\CoreApp.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Domain\bin\Debug\CoreApp.Infra.Data.dll
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Domain\bin\Debug\CoreApp.TorreDeHanoi.dll
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Domain\bin\Debug\log4net.dll
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Domain\bin\Debug\CoreApp.TorreDeHanoi.pdb
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Domain\bin\Debug\CoreApp.Infra.Data.pdb
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Domain\bin\Debug\log4net.xml
+C:\Users\Marcos Araújo\Desktop\MonkeysApp\CoreApp\CoreApp.Domain\bin\Debug\CoreApp.Domain.dll.config
